@@ -3,7 +3,12 @@
 - 🌱 I’m currently learning programming and Networking
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...--Through Email address therockprajjwol@gmail.com
-<img src="https://github-readme-stats.vercel.app/api?username=prajjwallive&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+- [![Github](https://img.shields.io/github/followers/CharalambosIoannou?label=Follow&style=social)](https://github.com/prajjwallive)
+- 
+<img src="https://github-readme-stats.vercel.app/api?username=prajjwallive&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"></img>
+
+<hr>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&theme=tokyonight)
 
 <!---
