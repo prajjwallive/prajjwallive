@@ -4,12 +4,14 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...--Through Email address therockprajjwol@gmail.com
 - [![Github](https://img.shields.io/github/followers/prajjwallive?label=Follow&style=social)](https://github.com/prajjwallive)
-- 
+
 <img src="https://github-readme-stats.vercel.app/api?username=prajjwallive&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"></img>
 
 <hr>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prajjwallive&theme=tokyonight)
+
+![](https://visitor-badge.laobi.icu/badge?page_id=prajjwallive)
 
 <!---
 prajjwallive/prajjwallive is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
