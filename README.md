@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...--Through Email address therockprajjwol@gmail.com
 - 
-- <script src="https://tryhackme.com/badge/425550"></script>
+-<img src="https://tryhackme-badges.s3.amazonaws.com/PrajjwalLive.png" alt="TryHackMe">
 - 
 - [![Github](https://img.shields.io/github/followers/prajjwallive?label=Follow&style=social)](https://github.com/prajjwallive)
 
