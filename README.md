@@ -3,6 +3,9 @@
 - 🌱 I’m currently learning programming and Networking
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...--Through Email address therockprajjwol@gmail.com
+- 
+- <script src="https://tryhackme.com/badge/425550"></script>
+- 
 - [![Github](https://img.shields.io/github/followers/prajjwallive?label=Follow&style=social)](https://github.com/prajjwallive)
 
 <img src="https://github-readme-stats.vercel.app/api?username=prajjwallive&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"></img>
