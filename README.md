@@ -15,6 +15,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prajjwallive&theme=tokyonight)
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=prajjwallive)
+<a href="http://www.free-iqtest.net" title="IQ Test"><img src="http://www.free-iqtest.net/images/badges2/l130.gif" width="200" height="100" alt="IQ Test" border="0"></a>
 
 <!---
 prajjwallive/prajjwallive is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
