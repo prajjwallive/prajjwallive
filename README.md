@@ -4,9 +4,10 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...--Through Email address therockprajjwol@gmail.com
 <hr>
--<img src="https://github-readme-stats.vercel.app/api?username=prajjwallive&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"></img>
+<img src="https://github-readme-stats.vercel.app/api?username=prajjwallive&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"></img>
 <hr>
--[![@prajjwallive's Holopin board](https://holopin.io/api/user/board?user=prajjwallive)](https://holopin.io/@prajjwallive)
+
+[![@prajjwallive's Holopin board](https://holopin.io/api/user/board?user=prajjwallive)](https://holopin.io/@prajjwallive)
 
 
 <!---
