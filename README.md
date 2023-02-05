@@ -14,10 +14,13 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
+<img src="https://icongr.am/devicon/linux-original.svg?size=148&color=currentColor" alt="linux" width="45" height="45"/>
+<img src="https://icongr.am/devicon/html5-original-wordmark.svg?size=148&color=currentColor" alt="html" width="45" height="45"/>
+<img src="https://icongr.am/devicon/css3-original-wordmark.svg?size=148&color=currentColor" alt="css" width="45" height="45"/>
 <img src="https://icongr.am/devicon/c-original.svg?size=128&color=currentColor" alt="c" width="45" height="45"/>
+<img src="https://icongr.am/devicon/git-plain-wordmark-original.svg?size=128&color=currentColor" alt="c" width="45" height="45"/>
+<img src="https://icongr.am/devicon/cplusplus-original.svg?size=128&color=currentColor" alt="c++" width="45" height="45"/>
+<img src="https://icongr.am/devicon/python-original.svg?size=128&color=currentColor" alt="python" width="45" height="45"/>
 </p>
 
 <!---
