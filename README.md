@@ -6,7 +6,8 @@
 <hr>
 <img src="https://github-readme-stats.vercel.app/api?username=prajjwallive&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"></img>
 <hr>
-
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="prajjwal-live-344993167" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://np.linkedin.com/in/prajjwal-live-344993167?trk=profile-badge">PRAJJWAL LIVE</a></div>
+              
 [![@prajjwallive's Holopin board](https://holopin.io/api/user/board?user=prajjwallive)](https://holopin.io/@prajjwallive)
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
