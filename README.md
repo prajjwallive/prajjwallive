@@ -6,7 +6,7 @@
 <hr>
 <img src="https://github-readme-stats.vercel.app/api?username=prajjwallive&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"></img>
 <hr>
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+
               
 [![@prajjwallive's Holopin board](https://holopin.io/api/user/board?user=prajjwallive)](https://holopin.io/@prajjwallive)
 
