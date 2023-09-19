@@ -23,7 +23,7 @@
 <img src="https://icongr.am/devicon/cplusplus-original.svg?size=128&color=currentColor" alt="c++" width="45" height="45"/>
 <img src="https://icongr.am/devicon/python-original.svg?size=128&color=currentColor" alt="python" width="45" height="45"/>
 <img src="https://icongr.am/devicon/java-original.svg?size=128&color=currentColor" alt="java" width="45" height="45"/>
-  <img src="https://icongr.am/devicon/csharp-original.svg?size=128&color=currentColor" alt="java" width="45" height="45"/>****
+<img src="https://icongr.am/devicon/csharp-original.svg?size=128&color=currentColor" alt="java" width="45" height="45"/>
 </p>
 
 <!---
