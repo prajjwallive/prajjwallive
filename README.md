@@ -12,7 +12,7 @@
 <hr>
 
               
-[![@prajjwallive's Holopin board](https://holopin.io/api/user/board?user=prajjwallive)](https://holopin.io/@prajjwallive)
+[![An image of @prajjwallive's Holopin badges](https://holopin.me/prajjwallive)](https://holopin.io/@prajjwallive)
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
