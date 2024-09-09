@@ -9,7 +9,7 @@
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=prajjwallive&layout=compact&langs_count=8&card_width=320&theme=dark" />
 </a>
-<img src="https://tryhackme-badges.s3.amazonaws.com/PrajjwalLive.png" alt="TryHackMe">
+<script src="https://tryhackme.com/badge/425550"></script>
 <hr>
 
               
